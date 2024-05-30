@@ -1,0 +1,15 @@
+# manifest.json
+// this useful for mobile devices when  u open your web application in your mobile your metatags can be viewed from the manifest file
+
+# package-lock.json
+this is also package.json file ,but your dependencies are lock means this is run on only this version provided by node modules this is locked  stable version 
+
+# robots.txt
+for  search engine
+
+# what is jsx
+you can render your html element through javascript 
+
+# react-scripts
+this is locate in package.json file , react-scripts load  index.js file in the behind 
+ example goto view page source and see { <script defer src="/static/js/bundle.js"></script></head>}
